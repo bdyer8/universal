@@ -1,0 +1,2 @@
+load('MASTERLIST.mat')
+MASTERLIST(:,[2 7 8])
